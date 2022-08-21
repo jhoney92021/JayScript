@@ -1,0 +1,10 @@
+
+npm install -g typescript
+
+npm install -g ts-node typescript '@types/node'
+
+---- run the following command to compile a typescript file: ----
+tsc typescript-file.ts
+
+---- run the following command to execute a typescript file: ----
+ts-node typescript-file.ts
